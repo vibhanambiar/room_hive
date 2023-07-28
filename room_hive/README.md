@@ -18,6 +18,3 @@ Show some love 💜 and Star ⭐️ the Repository to support the project.
 
 I've used [Semantic Versioning 2.0.0](https://semver.org/) for versioning throughout the project.
 
-## :question: Queries / Bugs
-
-If you got any queries or found a bug, open an [Issue](https://github.com/AbhishekMaira10/Room-Hive/issues/new) or ping me over on [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com)
